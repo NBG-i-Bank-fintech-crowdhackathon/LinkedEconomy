@@ -1,0 +1,26 @@
+{
+    "payments": [
+	{
+            "organization1":{
+                "name": "OTE",
+                "data": "4595960"
+            },
+            "organization2":{
+                "name": "VODAFONE",
+                "data": "185186"
+            },
+			"organization3":{
+                "name": "WIND",
+                "data": "33989"
+            },
+			"organization4":{
+                "name": "CYTA",
+                "data": "4557"
+            },
+			"organization5":{
+                "name": "FORTHNET",
+                "data": "54696"
+            }
+			
+	}]
+}

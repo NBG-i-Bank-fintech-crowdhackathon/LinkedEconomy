@@ -1,0 +1,79 @@
+{
+
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+
+
+
+		"datasets":
+		[
+		
+			{
+				"label": "OTE",
+                "fillColor": "rgba(0,128,0,0.5)",
+                "strokeColor": "rgba(0,128,0,1)",
+                "pointColor": "rgba(0,128,0,1)",
+                "pointStrokeColor": "#fff",
+                "pointHighlightFill": "#fff",
+                "pointHighlightStroke": "rgba(0,128,0,1)",
+				"data": [0.2, 0.3, 0.5, 0.7, 0.8, 0.6, 0.2, 0.3, 0.5, 0.7, 0.8, 0.6]
+
+            },
+            
+			
+            {
+                "label": "VODAFONE",
+                "fillColor": "rgba(255,0,0,0.5)",
+                "strokeColor": "rgba(255,0,0,0.7)",
+                "pointColor": "rgba(255,0,0,1)",
+                "pointStrokeColor": "#fff",
+                "pointHighlightFill": "#fff",
+                "pointHighlightStroke": "rgba(255,0,0,1)",
+                "data": [0.3, 0.5, 0.7, 0.8, 0.6, 0.2, 0.3, 0.5, 0.7, 0.8, 0.6, 0.2]
+				
+            },
+			
+			{
+                "label": "WIND",
+                "fillColor": "rgba(0,0,255,0.5)",
+				"strokeColor": "rgba(0,0,255,0.7)",
+				"pointColor": "rgba(0,0,255,1)",
+				"pointStrokeColor": "#fff",
+				"pointHighlightFill": "#fff",
+				"pointHighlightStroke": "rgba(0,0,255,1)",
+                "data": [0.5, 0.7, 0.8, 0.6, 0.2, 0.3, 0.5, 0.7, 0.8, 0.6, 0.2, 0.3]
+				
+            },
+			
+			{
+                "label": "CYTA",
+                "fillColor": "rgba(255, 255, 0, 0.5)",
+				"strokeColor": "rgba(255, 255, 0, 0.7)",
+				"pointColor": "rgba(255, 255, 0, 1)",
+				"pointStrokeColor": "#fff",
+				"pointHighlightFill": "#fff",
+				"pointHighlightStroke": "rgba(255, 255, 0, 1)",
+                "data": [0.2, 0.1, 0.1, 0.5, 0.7, 0.8, 0.6, 0.2, 0.3, 0.2, 0.1, 0.1]
+				
+            },
+			
+			{
+                "label": "FORTHNET",
+                "fillColor": "rgba(255, 165, 0, 0.5)",
+				"strokeColor": "rgba(255, 165, 0, 0.7)",
+				"pointColor": "rgba(255, 165, 0, 1)",
+				"pointStrokeColor": "#fff",
+				"pointHighlightFill": "#fff",
+				"pointHighlightStroke": "rgba(255, 165, 0, 1)",
+                "data": [0.2, 0.1, 0.1, 0.5, 0.9, 0.9, 0.9, 0.2, 0.3, 0.2, 0.1, 0.1]
+				
+            }
+			
+			
+        ]
+		
+		
+}
+     
+           
+				
+            

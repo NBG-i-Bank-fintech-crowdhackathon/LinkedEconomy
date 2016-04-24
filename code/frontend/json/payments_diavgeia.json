@@ -1,0 +1,43 @@
+{
+    "payments": [
+	{
+            "year2014":{
+                "totalExpenditureLines": 14902,
+                "totalAmount": 40659264
+            },
+            "year2015":{
+                "totalExpenditureLines":22566,
+                "totalAmount":91377123000,
+				 "year_difference":124
+            }
+			
+	}],
+			
+			
+
+    "assignments": [{
+            "year2014":{
+                "totalExpenditureLines":14902,
+                "totalAmount":40659264 
+            },
+            "year2015":{
+                "totalExpenditureLines":22566,
+                "totalAmount":913771231111111111,
+				 "year_difference":12474
+            }
+			}],
+			
+	"subsidies":	[{
+            "year2014":{
+                "totalExpenditureLines":14902,
+                "totalAmount":40659264
+            },
+            "year2015":{
+                "totalExpenditureLines":22566,
+                "totalAmount":9137712322222,
+				 "year_difference":12474
+            }
+			
+			
+			}]
+}

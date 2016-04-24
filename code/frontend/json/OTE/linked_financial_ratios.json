@@ -1,0 +1,11 @@
+{"details": [ 
+
+{"company":"OTE", "min": "1", "max": "4", "avg": "1", "buyers": 1080, "services": 10, "regions": 389} ,
+{"company":"Vodafone", "min": "1", "max": "4", "avg": "1", "buyers": 211, "services": 11, "regions": 142},
+{"company":"Wind", "min": "1", "max": "5", "avg": "1", "buyers": 107, "services": 10, "regions": 79},
+{"company":"CYTA", "min": "1", "max": "10", "avg": "2", "buyers": 39, "services": 8, "regions": 36},
+{"company":"Forthnet", "min": "1", "max": "5", "avg": "1", "buyers": 142, "services": 15, "regions": 88}
+
+
+
+]}

@@ -1,0 +1,29 @@
+{
+
+		"labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+
+
+
+		"datasets":
+		[
+            {
+				"label": "OTE",
+                "fillColor": "rgba(0,128,0,0.5)",
+                "strokeColor": "rgba(0,128,0,1)",
+                "pointColor": "rgba(0,128,0,1)",
+                "pointStrokeColor": "#fff",
+                "pointHighlightFill": "#fff",
+                "pointHighlightStroke": "rgba(0,128,0,1)",
+				"data": [4595960, 4415044, 2697875, 4447986, 4230146, 3165657, 3512701, 3629325, 5087992, 6461582, 16265537, 32860027]
+
+            }
+			
+			
+        ]
+		
+		
+}
+     
+           
+				
+            
